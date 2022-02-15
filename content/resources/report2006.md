@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-253-aids-and-poverty-in-africa-spring-2005/bfb21e72eb19902db9b1a4c05fee6127_report2006.pdf
+file: /media/courses/es-253-aids-and-poverty-in-africa-spring-2005/bfb21e72eb19902db9b1a4c05fee6127_report2006.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: report2006.pdf
 uid: bfb21e72-eb19-902d-b9b1-a4c05fee6127

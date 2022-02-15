@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Discrimination in Schools.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-253-aids-and-poverty-in-africa-spring-2005/7828639364a2f55a624c061beb188e19_MITES_253S05_tawanda_siban.pdf
+file: /media/courses/es-253-aids-and-poverty-in-africa-spring-2005/7828639364a2f55a624c061beb188e19_MITES_253S05_tawanda_siban.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Discrimination in Schools
 uid: 78286393-64a2-f55a-624c-061beb188e19
