@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ff8d45ca-0b9e-bf51-5ec5-f31cd1ccd352
 resourcetype: Document
 title: Policies in Institution (Companies, Civil, Religious and Health)
 uid: 6647d1b3-364a-f7a1-e4e7-8f7a930637e9

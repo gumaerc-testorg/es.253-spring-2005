@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ff8d45ca-0b9e-bf51-5ec5-f31cd1ccd352
 resourcetype: Document
 title: mahreen_khan.pdf
 uid: 4cee3df1-e989-750b-0499-fc44565d703c

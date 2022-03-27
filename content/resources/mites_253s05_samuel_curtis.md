@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ff8d45ca-0b9e-bf51-5ec5-f31cd1ccd352
 resourcetype: Document
 title: Workplace Discrimination
 uid: c7c3a3da-1e2d-cda6-f8ab-ab1ca4911dce

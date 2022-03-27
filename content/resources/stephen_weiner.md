@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ff8d45ca-0b9e-bf51-5ec5-f31cd1ccd352
 resourcetype: Document
 title: stephen_weiner.pdf
 uid: 609823c5-a68c-9af0-dfc6-f8bd60b46203

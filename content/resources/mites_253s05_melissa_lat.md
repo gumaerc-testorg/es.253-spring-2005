@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ff8d45ca-0b9e-bf51-5ec5-f31cd1ccd352
 resourcetype: Document
 title: Marriage Laws
 uid: 3aa5df69-9e60-2039-350e-4823ace443d0
