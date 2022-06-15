@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section contains a list of links to other websites which help students
+  in better understanding of the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: d0a916bd-0f8d-55b5-6b6c-7a652404efc6
 ---
@@ -17,6 +18,6 @@ uid: d0a916bd-0f8d-55b5-6b6c-7a652404efc6
 
 [Sub-Saharan Africa](http://hivinsite.ucsf.edu/global?page=cr09-00-00)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[HIV/AIDS and Poverty (PDF)](http://www.arabstates.undp.org/content/dam/aplaws/publication/en/publications/hiv-aids/poverty-and-hiv-aids-in-sub-saharan-africa/87.pdf)
+[HIV/AIDS and Poverty (PDF)](http://www.arabstates.undp.org/content/dam/aplaws/publication/en/publications/hiv-aids/poverty-and-hiv-aids-in-sub-saharan-africa/87.pdf)
 
 [Zambia Country Profile](http://hivinsite.ucsf.edu/global?page=cr09-za-00&post=19&cid=ZA)

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/es-253-aids-and-poverty-in-africa-spring-2005/bfb21e72eb19902db9b1a4c05fee6127_report2006.pdf
+file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/bfb21e72eb19902db9b1a4c05fee6127_report2006.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
