@@ -5,6 +5,7 @@ file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/3aa5df699e602039350
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Marriage Laws
 uid: 3aa5df69-9e60-2039-350e-4823ace443d0
 ---
 This resource contains the information regarding Marriage Laws.
-
