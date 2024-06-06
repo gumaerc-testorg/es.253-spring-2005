@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains a student paper on Privacy Policies.
 file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/609823c5a68c9af0dfc6f8bd60b46203_stephen_weiner.pdf
+file_size: 18450
 file_type: application/pdf
 learning_resource_types:
 - Projects
