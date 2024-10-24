@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Policies in Institution
   (Companies, Civil, Religious and Health).
-file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/6647d1b3364af7a1e4e78f7a930637e9_MITES_253S05_ato_ulzen.pdf
+file: /ol-ocw-studio-app/courses/es-253-aids-and-poverty-in-africa-spring-2005/6647d1b3364af7a1e4e78f7a930637e9_MITES_253S05_ato_ulzen.pdf
 file_size: 523676
 file_type: application/pdf
 learning_resource_types:
