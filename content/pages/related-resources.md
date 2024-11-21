@@ -2,15 +2,15 @@
 content_type: page
 description: This section contains a list of links to other websites which help students
   in better understanding of the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: d0a916bd-0f8d-55b5-6b6c-7a652404efc6
 ---
-
 [HIV/AIDS Statistics](http://www.niaid.nih.gov/factsheets/aidsstat.htm)
 
-[Basic Statistics (CDC)](https://www.cdc.gov/hiv/basics/statistics.html)
+[Basic Statistics (CDC)](https://www.cdc.gov/nchs/index.htm)
 
 [An AIDS History](http://www.avert.org/hiv-aids-history.htm)
 

@@ -39,9 +39,9 @@ Distribution of syllabus, readings and give an overview of what is expected in t
 
 {{< tdclose >}}{{< tdopen >}}
 
-[HIV/AIDS Statistics](https://www.cdc.gov/hiv/pdf/statistics_2005_HIV_Surveillance_Report_vol_17.pdf), January 16, 2005.
+[HIV/AIDS Statistics](https://www.cdc.gov/nchs/fastats/aids-hiv.htm), January 16, 2005.
 
-[Basic Statistics (CDC)](https://www.cdc.gov/hiv/basics/statistics.html), January 16, 2005.
+[Basic Statistics (CDC)](https://www.cdc.gov/nchs/index.htm), January 16, 2005.
 
 [An AIDS History](http://www.avert.org/hiv-aids-history.htm), January 16, 2005
 
@@ -79,13 +79,13 @@ What more can be done to prevent HIV/AIDS?
 
 AIDS in:
 
-\- Sub-Saharan Africa   
-\- Zambia   
-\- Zimbabwe   
-\- Namibia   
-\- Botswana   
-\- Angola   
-\- South Africa   
+\- Sub-Saharan Africa    
+\- Zambia    
+\- Zimbabwe    
+\- Namibia    
+\- Botswana    
+\- Angola    
+\- South Africa    
 [Source](http://hivinsite.ucsf.edu/global?page=cr09-00-00), January 14, 2005
 
 UNAIDS Report (News Article)
