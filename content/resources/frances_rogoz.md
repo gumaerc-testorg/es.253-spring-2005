@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains a student paper on Government Intervention.
-file: /ol-ocw-studio-app/courses/es-253-aids-and-poverty-in-africa-spring-2005/3b5fa789f54ef5c896e91a30ba08dff7_frances_rogoz.pdf
+file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/3b5fa789f54ef5c896e91a30ba08dff7_frances_rogoz.pdf
 file_size: 17877
 file_type: application/pdf
 learning_resource_types:
