@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding On Pre-Nuptial Testing.
-file: /ol-ocw-studio-app/courses/es-253-aids-and-poverty-in-africa-spring-2005/11964160f2c1b0cd5214f6f8f28f2215_MITES_253S05_priyadesai.pdf
+file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/11964160f2c1b0cd5214f6f8f28f2215_MITES_253S05_priyadesai.pdf
 file_size: 604713
 file_type: application/pdf
 learning_resource_types:
