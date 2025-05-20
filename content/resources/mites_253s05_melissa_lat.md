@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Marriage Laws.
-file: /ol-ocw-studio-app/courses/es-253-aids-and-poverty-in-africa-spring-2005/3aa5df699e602039350e4823ace443d0_MITES_253S05_melissa_lat.pdf
+file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/3aa5df699e602039350e4823ace443d0_MITES_253S05_melissa_lat.pdf
 file_size: 536090
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains student paper on Policies in General Media.
-file: /ol-ocw-studio-app/courses/es-253-aids-and-poverty-in-africa-spring-2005/a7e84abda2f27c9955b447663a879ba4_tufool_nuaimi.pdf
+file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/a7e84abda2f27c9955b447663a879ba4_tufool_nuaimi.pdf
 file_size: 17442
 file_type: application/pdf
 learning_resource_types:
