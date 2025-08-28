@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Policies in Schools.
-file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/59641bbca3f8e22e055939388428abe6_MITES_253S05_shima_goswami.pdf
+file: /ol-ocw-studio-app/courses/es-253-aids-and-poverty-in-africa-spring-2005/59641bbca3f8e22e055939388428abe6_MITES_253S05_shima_goswami.pdf
 file_size: 588723
 file_type: application/pdf
 learning_resource_types:

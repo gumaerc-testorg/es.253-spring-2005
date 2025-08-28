@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Workplace Discrimination.
-file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/c7c3a3da1e2dcda6f8abab1ca4911dce_MITES_253S05_samuel_curtis.pdf
+file: /ol-ocw-studio-app/courses/es-253-aids-and-poverty-in-africa-spring-2005/c7c3a3da1e2dcda6f8abab1ca4911dce_MITES_253S05_samuel_curtis.pdf
 file_size: 534727
 file_type: application/pdf
 learning_resource_types:
