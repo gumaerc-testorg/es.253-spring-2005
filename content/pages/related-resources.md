@@ -8,16 +8,16 @@ ocw_type: CourseSection
 title: Related Resources
 uid: d0a916bd-0f8d-55b5-6b6c-7a652404efc6
 ---
-[HIV/AIDS Statistics](http://www.niaid.nih.gov/factsheets/aidsstat.htm)
+{{% resource_link "4b6f5b22-ce6d-49d4-8cd7-798728c77a11" "HIV/AIDS Statistics" %}}
 
-[Basic Statistics (CDC)](https://www.cdc.gov/nchs/index.htm)
+{{% resource_link "710e0d27-06c1-4453-a44c-53851d7a81f9" "Basic Statistics (CDC)" %}}
 
-[An AIDS History](http://www.avert.org/hiv-aids-history.htm)
+{{% resource_link "f770ded9-7550-4cd2-924c-aa1fcc8086e3" "An AIDS History" %}}
 
-[Science behind HIV/AIDS](http://www.aids.org/factSheets/400-HIV-Life-Cycle.html)
+{{% resource_link "b7e13045-3c21-4552-b598-bbcc8096a3a8" "Science behind HIV/AIDS" %}}
 
-[Sub-Saharan Africa](http://hivinsite.ucsf.edu/global?page=cr09-00-00)
+{{% resource_link "1c9b7d09-c2a5-4eca-9867-f4642c12ceea" "Sub-Saharan Africa" %}}
 
-[HIV/AIDS and Poverty (PDF)](http://www.arabstates.undp.org/content/dam/aplaws/publication/en/publications/hiv-aids/poverty-and-hiv-aids-in-sub-saharan-africa/87.pdf)
+{{% resource_link "7b990205-9a34-4d25-86fb-340dbde7d63d" "HIV/AIDS and Poverty (PDF)" %}}
 
-[Zambia Country Profile](http://hivinsite.ucsf.edu/global?page=cr09-za-00&post=19&cid=ZA)
+{{% resource_link "b03062a8-d958-4e44-b3a7-faf7e104857b" "Zambia Country Profile" %}}
